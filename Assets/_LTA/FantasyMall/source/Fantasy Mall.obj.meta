@@ -1,0 +1,999 @@
+fileFormatVersion: 2
+guid: aacfe42c8bbeb1a4d9ba1bc5ee558da9
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_10Mat
+    second: {fileID: 2100000, guid: b60bbb93253d35746ac994d5450b0752, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_11Mat
+    second: {fileID: 2100000, guid: e4bf4e7efbbb9cf4d9c60c7c3c0f6834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_12Mat
+    second: {fileID: 2100000, guid: 5a8f5c8931ec01c458a15e5a5c4ac75c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_13Mat
+    second: {fileID: 2100000, guid: e03e04d8f7eab714ca1ce38e9700b635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_14Mat
+    second: {fileID: 2100000, guid: 4b499906a044f1f4a9eeefb9e6969f9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_15Mat
+    second: {fileID: 2100000, guid: e5d04c5e110f8f24ca2fb7ccac0b7925, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_16Mat
+    second: {fileID: 2100000, guid: cdf809479199b0045bcbaa94e33aaf80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_17Mat
+    second: {fileID: 2100000, guid: 95bcdaad813b2924fb8636e9c1f10359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_18Mat
+    second: {fileID: 2100000, guid: 3922101650df63340b3832fbcfc2f37c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_19Mat
+    second: {fileID: 2100000, guid: 664d5181bbd7bdb41806743f0358572f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_1Mat
+    second: {fileID: 2100000, guid: 8da70c8d8c5a8f6478ca33f2b7b4c2e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_20Mat
+    second: {fileID: 2100000, guid: f55497bbc72e00545acfdfd41e02e705, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_2Mat
+    second: {fileID: 2100000, guid: d6fd755f4977cf64496e0895a731be02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_3Mat
+    second: {fileID: 2100000, guid: 2e17cfb2f3ba15042bf5964a616f6964, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_4Mat
+    second: {fileID: 2100000, guid: 827ba052c2b0e1246b13a74f5c348b0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_5Mat
+    second: {fileID: 2100000, guid: 328759b4a6f7eed4f910d89b14ca67e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_6Mat
+    second: {fileID: 2100000, guid: f0a02d9c395ab1c46bc27aa9d8084984, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_7Mat
+    second: {fileID: 2100000, guid: 1562241325fdb684f8c5f746453d858f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_8Mat
+    second: {fileID: 2100000, guid: 70bf0e40341ac474ea3ec401af91a1c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_mesh01_9Mat
+    second: {fileID: 2100000, guid: 5fea843ce5e4a0040addef732762467a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_100Mat
+    second: {fileID: 2100000, guid: 593951adfede31d4cb08be8b40505756, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_101Mat
+    second: {fileID: 2100000, guid: 18c223ddd7c174049acef48c4a9644bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_102Mat
+    second: {fileID: 2100000, guid: 3f687b946ec0b5b4ba0e7fd4b16c2981, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_103Mat
+    second: {fileID: 2100000, guid: 100932a49ac93f34cbb2f10a79a129f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_104Mat
+    second: {fileID: 2100000, guid: 77b8a2b583ce873438bb8c56e0a4ce78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_105Mat
+    second: {fileID: 2100000, guid: cc911be53916a8c4185e43e43eb87410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_106Mat
+    second: {fileID: 2100000, guid: d96550b40334efa41b0b229aea5b1dba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_107Mat
+    second: {fileID: 2100000, guid: f0b9c3195c545c24e855f34ed4c06693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_108Mat
+    second: {fileID: 2100000, guid: e21ec137ede0bf94daf3d4f1d905c8ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_109Mat
+    second: {fileID: 2100000, guid: 31f396f1a36242e4f9a3ee6ec10d0c54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_10Mat
+    second: {fileID: 2100000, guid: 8d4841be771ec914d983a07524d2377b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_110Mat
+    second: {fileID: 2100000, guid: ed9667a21b515574fa4edbd6f18ebf52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_111Mat
+    second: {fileID: 2100000, guid: e6d20ba09b739d34d81e0fbac3e68860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_112Mat
+    second: {fileID: 2100000, guid: 03b493d85d76f0a458e862e2b6cc39ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_113Mat
+    second: {fileID: 2100000, guid: becdebad417ca2b4ab8e5c6d5fdd3913, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_114Mat
+    second: {fileID: 2100000, guid: 94d5f7d199c75484ab6ad509225784f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_115Mat
+    second: {fileID: 2100000, guid: 3712e3e1e79e07948a8ec3c9d468eff6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_116Mat
+    second: {fileID: 2100000, guid: a35b86d0a95c67e45ae5ff9388be841d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_117Mat
+    second: {fileID: 2100000, guid: 862e05046c1647c4a967715f1218ac10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_118Mat
+    second: {fileID: 2100000, guid: fe9a5fbb32e15a54e84d93ce54824281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_119Mat
+    second: {fileID: 2100000, guid: cbd7a8da87c6f9f45857979a9ef4ac81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_11Mat
+    second: {fileID: 2100000, guid: 60e352a16b3b02149965ec2a2f5d17fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_120Mat
+    second: {fileID: 2100000, guid: a9041cc51c1bb97429679e1b37f28329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_121Mat
+    second: {fileID: 2100000, guid: d28c60b6b10d8af429ff4aa577063489, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_122Mat
+    second: {fileID: 2100000, guid: 41dfe618b2a8b2d4ebdfe485e306330e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_123Mat
+    second: {fileID: 2100000, guid: 0109d7d31514d9b4db702086405328e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_124Mat
+    second: {fileID: 2100000, guid: 12520bb70160f014eaee0961d204d185, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_125Mat
+    second: {fileID: 2100000, guid: 7562e1930c26f9d47a50bace093f9bcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_126Mat
+    second: {fileID: 2100000, guid: 34fbf5f269a7fa1449aa1315291a63e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_127Mat
+    second: {fileID: 2100000, guid: c5063faca6e220748895b1fc5164b87a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_128Mat
+    second: {fileID: 2100000, guid: 6e9c9c9793181d647b3649dcb699f817, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_129Mat
+    second: {fileID: 2100000, guid: cf860f6dd7e8c534ca8fae52d5bdc2d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_12Mat
+    second: {fileID: 2100000, guid: abef052ca7cd5f84dbc348852b185ad8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_130Mat
+    second: {fileID: 2100000, guid: d441e426f0653ce4ebf148a9a5fc233f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_131Mat
+    second: {fileID: 2100000, guid: 89c589090acfd1a428131b16748e51a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_132Mat
+    second: {fileID: 2100000, guid: 91cdaf0ca93b8104bb444d7033bdaca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_133Mat
+    second: {fileID: 2100000, guid: ec53cda1d97633d4ea5238ee47e8d887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_134Mat
+    second: {fileID: 2100000, guid: a2fa2d3d39c19c043b3c0725c1dcb83a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_135Mat
+    second: {fileID: 2100000, guid: f5ff1083b631d12428ab0ffa318e5c93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_136Mat
+    second: {fileID: 2100000, guid: 0d3e5f3770d222a4186a57f7a7367e98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_137Mat
+    second: {fileID: 2100000, guid: 977e7615b183fc34393ab45c4366d38b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_138Mat
+    second: {fileID: 2100000, guid: 116fdfc6f41b7454198ec57de84a4a95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_139Mat
+    second: {fileID: 2100000, guid: f718fc26057065640994469c09cd0e4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_13Mat
+    second: {fileID: 2100000, guid: 507292f53db5f404f94ba2cd95881fb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_140Mat
+    second: {fileID: 2100000, guid: d7d5e7f187202ea46942fcdf6a1c0292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_141Mat
+    second: {fileID: 2100000, guid: cc6cb5e09045e814fa4d80adf57edae0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_142Mat
+    second: {fileID: 2100000, guid: 15c18c2573b0c8f4a844a11a3098c43b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_143Mat
+    second: {fileID: 2100000, guid: 8dd85d992e2d6174f9561465fa4390da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_144Mat
+    second: {fileID: 2100000, guid: 604ce9c37f249784687fbdcc3f5e27d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_145Mat
+    second: {fileID: 2100000, guid: 5e8e80590b0f2f441962003c29a5a422, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_146Mat
+    second: {fileID: 2100000, guid: 5a137a41b27fc1742b223f667a7ed172, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_147Mat
+    second: {fileID: 2100000, guid: 3b9161e9ef3e1d44f89903a6db9cd30a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_148Mat
+    second: {fileID: 2100000, guid: 9c64a1ff3b5c0414c92de966c6e374bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_149Mat
+    second: {fileID: 2100000, guid: 0a30c80998af3f543a76ffeb8604240c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_14Mat
+    second: {fileID: 2100000, guid: 2366ccb3ca4060a4089503929a856d2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_150Mat
+    second: {fileID: 2100000, guid: 558fe7f19dfbbbd4e8c123c464494001, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_151Mat
+    second: {fileID: 2100000, guid: 962bd5d56585da64e9a9182bfa011235, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_152Mat
+    second: {fileID: 2100000, guid: b325429abb2715346bffd565991887b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_153Mat
+    second: {fileID: 2100000, guid: b26c700e5b818514f80cf2fced81f862, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_154Mat
+    second: {fileID: 2100000, guid: 39c144ee9bc7fdf47bb09701d68e01eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_155Mat
+    second: {fileID: 2100000, guid: fafa1e301d4c8114296af1919540ac84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_156Mat
+    second: {fileID: 2100000, guid: 47ec7e71b69961041b3e07a717dcae3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_157Mat
+    second: {fileID: 2100000, guid: 10c1f52d67fa57d4bbe2a29341c78e0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_15Mat
+    second: {fileID: 2100000, guid: 36e7268ce3541a3449b38a36b18572a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_16Mat
+    second: {fileID: 2100000, guid: 2c465b6f55bab2f4f931ac53e648e005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_17Mat
+    second: {fileID: 2100000, guid: e23bb27a6a2b3184786929b62f6e0f3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_18Mat
+    second: {fileID: 2100000, guid: d1a8fd91db1ff264abd69e96245247dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_19Mat
+    second: {fileID: 2100000, guid: 3bfe62de508ebcc48974979db59afe00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_1Mat
+    second: {fileID: 2100000, guid: 2e5a4eb5322fac84ea9d02a675cceb80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_20Mat
+    second: {fileID: 2100000, guid: 2518f36e8d8228947bf4cfc76d05ce9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_21Mat
+    second: {fileID: 2100000, guid: d1d03472123521142b91952fbc2fa72c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_22Mat
+    second: {fileID: 2100000, guid: 559f25c75a0cd0a42986eeea60030d64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_23Mat
+    second: {fileID: 2100000, guid: 86546d5df4b11294aab90294868c499d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_24Mat
+    second: {fileID: 2100000, guid: b6c36caa8f32be743a5b29a5d48ab9f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_25Mat
+    second: {fileID: 2100000, guid: c0cfa6a7bc32b094897a30395d1c9c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_26Mat
+    second: {fileID: 2100000, guid: 0b23deebf73cca7448f0bd7eecd67c84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_27Mat
+    second: {fileID: 2100000, guid: 71c1526ab620cc04081f3574e93211ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_28Mat
+    second: {fileID: 2100000, guid: 4696ba21528c07c4d99d2064391cdcd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_29Mat
+    second: {fileID: 2100000, guid: ecf320750813367489ac5a896128ca62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_2Mat
+    second: {fileID: 2100000, guid: b44318ec0aea00541b9587ed5acddfbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_30Mat
+    second: {fileID: 2100000, guid: 591a8759755fd774d865e9ea94fa51bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_31Mat
+    second: {fileID: 2100000, guid: 10e1c09b97b99b149a88b7fbb7ac25d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_32Mat
+    second: {fileID: 2100000, guid: 3101ed925322dbc4fb1067cd15264154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_33Mat
+    second: {fileID: 2100000, guid: ac9f3423edc345e4c993bc3adb605f57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_34Mat
+    second: {fileID: 2100000, guid: cc8b4e275e7cc2c439b217a73c210fe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_35Mat
+    second: {fileID: 2100000, guid: 7a5cfcd7d494290458eeaaa688414e68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_36Mat
+    second: {fileID: 2100000, guid: 1bc322e20357252458ace0ac2a98ca63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_37Mat
+    second: {fileID: 2100000, guid: e0275bee80fb6b74c9668c4f48076f85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_38Mat
+    second: {fileID: 2100000, guid: 657c65490a6db384e9bc999b5842863c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_39Mat
+    second: {fileID: 2100000, guid: 8f6c4f28e2a62154994a8751d224a6c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_3Mat
+    second: {fileID: 2100000, guid: 6b57b56c3e7919646bc733dfc9e31c4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_40Mat
+    second: {fileID: 2100000, guid: 87c3d891aeb51044091b8f1429fc2c9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_41Mat
+    second: {fileID: 2100000, guid: 37d3c087a833da540a0089bad1c237cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_42Mat
+    second: {fileID: 2100000, guid: d02e29d16ee9c2742873b7f32f5b6faa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_43Mat
+    second: {fileID: 2100000, guid: 1c0a798b0303c1e478c0fbc40d57abf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_44Mat
+    second: {fileID: 2100000, guid: 152ca2d186b3e2344b3baba08e4e9174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_45Mat
+    second: {fileID: 2100000, guid: a213e6e364edc2d49b38207fba1f62b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_46Mat
+    second: {fileID: 2100000, guid: 22822eee62a0f9641bf547c0ea165a68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_47Mat
+    second: {fileID: 2100000, guid: 53c064cd138498c4a837f55b9abf9e59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_48Mat
+    second: {fileID: 2100000, guid: 17f8fa48dd46ca941a655f322f55ac23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_49Mat
+    second: {fileID: 2100000, guid: 48f9cbcfa8e04434e837e3d67af5b4a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_4Mat
+    second: {fileID: 2100000, guid: b8f73288c90ccb944ba3a5400950884f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_50Mat
+    second: {fileID: 2100000, guid: 89bef5604abc80b4aa9b61f3aa22d02c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_51Mat
+    second: {fileID: 2100000, guid: f41729165c4c3fc449357b72a7e17786, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_52Mat
+    second: {fileID: 2100000, guid: b42b56aca0af4fd47a7c3d4680bbe5d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_53Mat
+    second: {fileID: 2100000, guid: 407b17dbb1d4e1d4b887ebdb760f0a1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_54Mat
+    second: {fileID: 2100000, guid: 970387f106cfcf54bb0ad93f2eb7c44b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_55Mat
+    second: {fileID: 2100000, guid: 44910bfc85137104e8765b715846b3f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_56Mat
+    second: {fileID: 2100000, guid: e69661fe0ae501e4aba738c2ff881f01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_57Mat
+    second: {fileID: 2100000, guid: f7ea1212ddd7a114f958b8656a3ace59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_58Mat
+    second: {fileID: 2100000, guid: 5f115be15bfc4624bbff9e3d1979b1c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_59Mat
+    second: {fileID: 2100000, guid: 45282a556a1f8834281ce01d374f983b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_5Mat
+    second: {fileID: 2100000, guid: 684aec23abf8f25489b82a6d22031391, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_60Mat
+    second: {fileID: 2100000, guid: d3e66da2531421743a9a6bea4b8c8c7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_61Mat
+    second: {fileID: 2100000, guid: a244a3541a6fc284c9cfd006fe75baa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_62Mat
+    second: {fileID: 2100000, guid: 839176cd75d447d41807b905b77fe4cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_63Mat
+    second: {fileID: 2100000, guid: 28e97ade137248d4ebe3f5f9f7ee1251, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_64Mat
+    second: {fileID: 2100000, guid: 819a9cb719197b849a05a3ad101c7abb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_65Mat
+    second: {fileID: 2100000, guid: c5a96e16ae0c6ac42828eadba3ec3c85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_66Mat
+    second: {fileID: 2100000, guid: 44f40616470726649b44f12b8f7c197c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_67Mat
+    second: {fileID: 2100000, guid: 8c301cfb3b0049644a433492e41ce871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_68Mat
+    second: {fileID: 2100000, guid: 2c81908cec4be324ead3c693944e8f3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_69Mat
+    second: {fileID: 2100000, guid: 7a5d6b1846ff831448b8e334b9c46bd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_6Mat
+    second: {fileID: 2100000, guid: d077ede888285714bb7e9a9cc0d1a6b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_70Mat
+    second: {fileID: 2100000, guid: 7fd539096b01a2f47abd52a1a2afd91a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_71Mat
+    second: {fileID: 2100000, guid: 7a25f8ff55546b8409574435164f85a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_72Mat
+    second: {fileID: 2100000, guid: a44249300d995fe42aa6bf08d1714344, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_73Mat
+    second: {fileID: 2100000, guid: 23dc353f102e6a746a71006c3f210b94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_74Mat
+    second: {fileID: 2100000, guid: 0056c430c6374b4419c02b3efe19662b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_75Mat
+    second: {fileID: 2100000, guid: a8ec1ec2470555e4f9d7da885d9ab6b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_76Mat
+    second: {fileID: 2100000, guid: 2f58b4f3f9ebd6f4ea9d1be034dc12d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_77Mat
+    second: {fileID: 2100000, guid: b28fff46fdef90e4c9558c25e4e05f6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_78Mat
+    second: {fileID: 2100000, guid: c6b356446f1987747b52d660b1b45129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_79Mat
+    second: {fileID: 2100000, guid: 124577a8312f22344b871f32f99619ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_7Mat
+    second: {fileID: 2100000, guid: 1c05936f1f08ea348b89358b98c7081f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_80Mat
+    second: {fileID: 2100000, guid: b93b8ad75c8889e44a2a2e5632ae57b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_81Mat
+    second: {fileID: 2100000, guid: 7c801be0bfa4acc45aecec6a9de069de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_82Mat
+    second: {fileID: 2100000, guid: 4ab16e2d4cb1ec743872ed53190fd3ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_83Mat
+    second: {fileID: 2100000, guid: a46b3f6a780067a4a9fda4f9bb5343f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_84Mat
+    second: {fileID: 2100000, guid: 9affb9d07a8e99940b1a88282c18eb9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_85Mat
+    second: {fileID: 2100000, guid: c73a82896d04ae042835d7862eec46b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_86Mat
+    second: {fileID: 2100000, guid: 1bc35523ed9c0cf468a928f018cece8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_87Mat
+    second: {fileID: 2100000, guid: 07d1828c5b684bd428cc503cca43acd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_88Mat
+    second: {fileID: 2100000, guid: 9ef797fcf1cf73e43924fa5e721ceccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_89Mat
+    second: {fileID: 2100000, guid: 2f38ac4811718c84ba93355249d55df1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_8Mat
+    second: {fileID: 2100000, guid: 00f742926c3ca814199be4c58c6dc348, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_90Mat
+    second: {fileID: 2100000, guid: ceafbf9aa92aa9d489ba1a350123834d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_91Mat
+    second: {fileID: 2100000, guid: 03bc17eb2e27ff546a71bcff270f4607, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_92Mat
+    second: {fileID: 2100000, guid: 86740605b572a034ea314b723650261d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_93Mat
+    second: {fileID: 2100000, guid: d121805e9c9e1f14f97112dafd159c01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_94Mat
+    second: {fileID: 2100000, guid: 65d7da4556bcbc947ba0f3a83b7097cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_95Mat
+    second: {fileID: 2100000, guid: a28562df6be589d4790df8f823041c24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_96Mat
+    second: {fileID: 2100000, guid: dbf4181ed3126244ea653acb4fce963c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_97Mat
+    second: {fileID: 2100000, guid: be6442bc98595df44bdd2f7d327bb05f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_98Mat
+    second: {fileID: 2100000, guid: f88b67caa049c274d9483b96c8b13c39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_99Mat
+    second: {fileID: 2100000, guid: cbfbd12fe532a8447a808f3c42381b7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_usemtl_9Mat
+    second: {fileID: 2100000, guid: f090052215bdf054b994e3cb348886de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escalators_mesh01_1Mat
+    second: {fileID: 2100000, guid: 23d52bf637a5cf44f99cc8e0b30937b5, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.08
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.08
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
